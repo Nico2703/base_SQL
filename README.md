@@ -13,5 +13,8 @@ Alumno: Ferrand Nicolás
 ## Diagrama entidad-relación
 <img style="background-color: white; width: 75%;" src="entidad-relación.png"/>
 
+## Diagrama esquemático
+<img style="background-color: white; width: 75%;" src="esquemático.png"/>
+
 ## Diagrama de tablas 
 <img style="width: 75%;" src="tablas.png"/>
