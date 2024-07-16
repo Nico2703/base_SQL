@@ -1,19 +1,20 @@
 USE elevadores_model;
 
-CREATE TABLE Cliente(
+CREATE TABLE Clientes(
 	ID_cliente INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
     Denominacion VARCHAR (30),
     Tel_cliente VARCHAR (30),
     Mail_cliente VARCHAR (30)
 );
 
-CREATE TABLE Edificio(
+CREATE TABLE Edificios(
 	ID_edificio INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
     Nombre_edif VARCHAR (30),
     Direccion VARCHAR (30),
     Tel_edif VARCHAR (30),
     Encargado VARCHAR (30),
-    ID_cliente INT NOT NULL
+    ID_cliente INT NOT NULL,
+    FOREIGN KEY (ID_cliente) REFERENCES Clientes(ID_cliente)
 );
 
 CREATE TABLE Elevadores(
@@ -24,7 +25,8 @@ CREATE TABLE Elevadores(
     Carga INT NOT NULL,
     Velocidad INT NOT NULL,
     Proyecto VARCHAR (30),
-    ID_edificio INT NOT NULL
+    ID_edificio INT NOT NULL,
+    FOREIGN KEY (ID_edificio) REFERENCES Edificios(ID_edificio)
 );
 
 CREATE TABLE Reclamos(
@@ -33,7 +35,10 @@ CREATE TABLE Reclamos(
     Fecha DATE,
     ID_edificio INT NOT NULL,
     ID_elevador INT NOT NULL,
-    Legajo_tec INT NOT NULL
+    Legajo_tec INT NOT NULL,
+    FOREIGN KEY (ID_edificio) REFERENCES Edificios(ID_edificio),
+    FOREIGN KEY (ID_elevador) REFERENCES Elevadores(ID_edificio),
+    FOREIGN KEY (Legajo_tec) REFERENCES Tecnicos(Legajo_tec)
 );
 
 CREATE TABLE Tecnicos(
@@ -50,5 +55,7 @@ CREATE TABLE Reparaciones(
 	Costo INT NOT NULL,
     Plazo INT NOT NULL,
     ID_reclamo INT NOT NULL,
-    ID_cliente INT NOT NULL
+    ID_cliente INT NOT NULL,
+    FOREIGN KEY (ID_reclamo) REFERENCES Reclamos(ID_reclamo),
+    FOREIGN KEY (ID_cliente) REFERENCES Clientes(ID_cliente)
 );
