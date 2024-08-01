@@ -1,0 +1,201 @@
+﻿ID_edificio;ID_cliente;Nombre_edif;Direccion;Tel_edif;Encargado
+1;32;Sonoran Indian Mallow;6592 Surrey Plaza;398-278-1083;Andrey Harmour
+2;27;Jetbead;1407 Eagan Road;998-539-8698;Red Reiach
+3;5;Bracted Alumroot;2312 Lillian Alley;139-117-2534;Isaiah Pietruszka
+4;16;Obispo Suncup;88 Vidon Way;100-133-3572;Benson Killner
+5;1;Dwarf Brodiaea;6 Lakeland Junction;863-423-5604;Bill Nickels
+6;16;Kau Silversword;04320 Rusk Center;274-119-7564;Errick Neumann
+7;27;Cup Lichen;84 Banding Junction;356-535-4868;Arnie Prahl
+8;15;Eurhynchium Moss;41 Fremont Crossing;632-336-9210;Melania Ribou
+9;36;Tortugo Prieto;039 Crescent Oaks Drive;123-346-1519;Gabey Tarbert
+10;21;Beautiful Spikerush;839 Orin Court;901-234-0715;Raffaello Sayles
+11;23;Snow Willow;61430 Pearson Street;669-567-0953;Briney McLennan
+12;37;Melocactus;2227 Shoshone Trail;390-780-0128;Sibel Ikringill
+13;7;Texas Shrub;42723 Colorado Junction;985-621-2059;Enoch Arnaez
+14;35;Bog Pimpernel;10 Kim Place;700-391-6515;Jacklin Berringer
+15;20;Sphagnum;72801 Stang Circle;308-735-9891;Candice Mcall
+16;38;Common Gypsyweed;7 Commercial Center;712-574-7350;Rowan Leatherland
+17;36;Clay Sand Verbena;128 Mayfield Avenue;792-996-6749;Skell Sneddon
+18;27;Rough Blackfoot;36 Oakridge Center;913-434-2532;Ethelind Jefferies
+19;21;Melanelia Lichen;33 Lake View Way;445-313-3523;Elvis Osban
+20;39;Cartilage Lichen;67511 Laurel Park;930-473-8792;Betsey Hadkins
+21;20;Variousleaf Fescue;3146 Mandrake Avenue;820-219-7154;Filberte Wedmore.
+22;4;Leciophysma Lichen;623 Mccormick Plaza;662-840-8359;Tabb Knoller
+23;38;Map Lichen;269 Anzinger Trail;585-290-3468;Milicent Paynton
+24;26;Lavender Oldfield Aster;003 Fair Oaks Junction;591-850-9339;Shelbi Seawright
+25;26;Wheeler's Sandwort;751 Portage Pass;679-879-9967;Juline Smitherham
+26;29;New England Sedge;10 Mesta Way;810-974-3910;Nike Littleover
+27;24;Redhot Poker;5355 Amoth Street;219-658-8656;Eachelle Binner
+28;12;Nodding Muhly;38996 Amoth Point;447-358-6713;Mel Croxford
+29;16;Spider Lupine;72 Brown Point;411-619-5891;Emmery Donahue
+30;40;Copeland's Speedwell;0150 Del Mar Pass;604-814-8610;Welsh Blondell
+31;12;Watercress;3081 Northland Junction;965-942-2839;Aurore Catterick
+32;24;Black Mustard;2 Brickson Park Hill;666-417-2416;Myrtice Blasli
+33;4;Snowrose;4 Mcbride Junction;607-394-0411;Jody Pengelly
+34;38;Strangospora Lichen;9 Doe Crossing Park;523-425-5613;Moise Gallimore
+35;24;Lavin's Milkvetch;88635 Columbus Trail;191-420-3675;Penni Sprull
+36;23;Changing Forget-me-not;6 Dixon Alley;705-275-6447;Vale Daud
+37;31;Twogrooved Milkvetch;2253 Merchant Center;531-503-0812;Arni Dabbs
+38;28;Alpine Jewelflower;1757 Eastwood Circle;345-697-7138;Derrik Salsberg
+39;3;Brownspine Hedgehog Cactus;764 Burrows Pass;131-552-2836;Helsa Temby
+40;13;Waterpurslane;60598 Chinook Parkway;993-923-1095;Sidney Conachie
+41;26;Bittercress;52101 Northland Road;507-609-2718;Marlie Danielot
+42;37;Illosporium Lichen;35 Fisk Avenue;696-430-9010;Odo Le Blanc
+43;7;Northern Bowl Lichen;3 Oak Valley Plaza;300-281-5818;Anneliese Spillard
+44;20;Drummond's Willow;69990 Graedel Hill;917-614-9149;Celestina Copello
+45;28;Oatgrass;3 Meadow Vale Parkway;120-419-1154;Brynn Clarycott
+46;3;Dunkeld Larch;32601 Shelley Junction;518-321-8734;Morlee Letterese
+47;16;Dollarleaf;0 Muir Parkway;701-252-3262;Davina Beavon
+48;39;Lodgepole Lupine;644 Mandrake Court;730-425-0732;Leona Johnson
+49;20;Arctic Alpine Forget-me-not;723 Briar Crest Court;603-758-3640;Pryce Dawton
+50;21;Wild Onion;50194 Fulton Plaza;848-492-8210;Sebastien Havenhand
+51;40;Tanoak;5821 Cascade Street;373-851-1772;Brewer Indruch
+52;15;Giant Shield Lichen;54 Morning Center;552-703-3105;Chiarra Sowte
+53;30;Pacific Woodrush;926 Sunbrook Road;516-468-8087;Barb Fluit
+54;28;Slender Grasswort;867 Atwood Parkway;464-607-8469;Aeriel Buckthorp
+55;2;Sulphur-flower Buckwheat;358 Arizona Junction;592-190-1991;Gertruda Weigh
+56;15;Yosemite Sedge;07989 Forest Run Court;314-462-1969;Stacy Clemetts
+57;5;Flatglobe Dodder;09957 Maple Center;404-696-0379;Kennan Rylett
+58;19;Shady Woodsorrel;37 Hagan Parkway;954-736-3599;Terza Housbey
+59;18;Florida Keys Nutrush;8937 John Wall Alley;430-975-6682;Marsiella Simonelli
+60;31;Fuzzywuzzy Airplant;2 Manley Circle;853-990-1884;Leon Ferns
+61;34;Plains Fleabane;8 Logan Terrace;963-368-1044;Farlie Dottrell
+62;1;Eggert's Sunflower;5146 Old Gate Parkway;642-288-1050;Morgan Littleton
+63;4;Foothill Jepsonia;0568 Towne Road;529-539-2316;Abey Knowlden
+64;19;Forked Fanwort;76 Steensland Lane;691-916-9286;Bartholomeo Hudspeth
+65;22;Payson's Tansymustard;8 Chive Way;846-500-9662;Binny Howship
+66;37;Dyebush;0 Namekagon Trail;271-110-5597;Evelin Dregan
+67;4;Sticky Chickweed;9 Thierer Circle;223-966-3512;Leif Romanelli
+68;19;Twigrush;2 Logan Alley;710-888-9076;Dar Scotchmore
+69;9;Brant's Oak;9719 Hintze Terrace;553-802-5373;Artur Sute
+70;6;Sonoran Silverbush;23 Hallows Plaza;199-132-6815;Danell MacAlester
+71;19;Dwarf Checkerbloom;94 Cardinal Lane;366-246-6188;Tresa Tiddeman
+72;7;Florida Clover Ash;2 Elmside Street;691-458-5101;Charmian Covelle
+73;28;Cracked Lichen;77 Bowman Lane;189-856-9911;Jess Del Dello
+74;34;Aulacomnium Moss;11 Lakeland Road;342-881-2763;Zarla Llorente
+75;8;Dwarf Checkerbloom;7 Mayfield Crossing;162-205-1240;Reinald Hatwells
+76;35;Spotted Beebalm;9 Sage Terrace;358-253-4325;Carina Shieber
+77;37;Common Threesquare;9471 Golf Alley;313-700-7723;Melva Cosbee
+78;37;Onesided Threadplant;594 Talmadge Center;938-811-1376;Griffith Popelay
+79;10;Pin-leaf Seepweed;8 Erie Junction;262-285-4980;Rebekkah Rutley
+80;32;Cup Lichen;1067 Heffernan Point;378-282-3191;Giorgio Dran
+81;8;Green-tinge Spiderlily;624 John Wall Plaza;212-295-1586;Brinn Matuszinski
+82;35;Johnsongrass;81470 Anhalt Point;190-724-4790;Martie Saffill
+83;26;Loroco;4 Monument Center;169-572-6382;Vincent Thumann
+84;7;Chestnut Rush;15692 Delladonna Crossing;587-728-3863;Danyette Walsh
+85;39;Prairie Phlox;25520 Waubesa Terrace;524-511-4022;Netta Kiddye
+86;29;Texas Townsend Daisy;28214 Parkside Crossing;969-416-7009;Tom Petrelli
+87;21;Loeskypnum Moss;03564 Anthes Road;202-566-7748;Hobey Haggidon
+88;6;Lyebush;048 Hallows Terrace;755-995-0145;Kristan Sturgis
+89;36;Pacific Pea;6 Stang Hill;196-736-0492;Caresse McNabb
+90;4;Missouri Orange Coneflower;4650 Upham Street;928-656-7424;Bax Woollhead
+91;5;Winged Rockcress;4 Acker Park;702-686-9197;Caro Tunnick
+92;38;Guatteria;0 Schiller Avenue;364-966-1231;Whitney Abdy
+93;3;Hourglass Peaseed;59 Monterey Crossing;861-738-8350;Evangelina Sellan
+94;21;Cuthbert's Skullcap;44 Continental Trail;705-922-3968;Jaquith Sillito
+95;35;Greenland Lecania Lichen;65749 Algoma Alley;638-663-6901;Averyl Ginnane
+96;18;Twoflower Dwarfdandelion;2 Stang Hill;109-606-1144;Xever Jacquest
+97;32;Longflower Rabbitbrush;46 Union Lane;993-752-5655;Curry Robbie
+98;28;Blackseed Ricegrass;080 Marquette Street;473-953-5139;Aggie Ludee
+99;27;Xanthoparmelia Lichen;714 Truax Lane;149-676-7421;Paola Jelf
+100;3;Showy Dewflower;32310 Hansons Junction;365-942-9902;Haily McCadden
+101;12;Fivepetal Leaf-flower;49 Moulton Place;111-265-9750;Janie Urion
+102;26;Bellorita;4035 Raven Crossing;359-177-4721;Herb Slimmon
+103;8;Navel Lichen;58691 John Wall Pass;283-742-5699;Layney Benny
+104;10;Rubber Rabbitbrush;40 Farmco Pass;749-277-4156;Shea Elsey
+105;31;Holly;65489 Village Green Hill;561-637-8823;Tatiania Vedeneev
+106;35;Spiny Plumeless Thistle;02296 Manitowish Parkway;932-839-9864;Maurizia Lammertz
+107;18;Threepetal Bedstraw;3 Havey Junction;270-957-2751;Mallorie Luciani
+108;7;Nipple Beach Phacelia;0748 Quincy Hill;956-190-3383;Mackenzie Tillyer
+109;15;Spreading Navarretia;830 Weeping Birch Hill;802-336-9773;Glen Glencros
+110;5;Roadside Flatsedge;323 Forster Circle;358-619-9566;Wolf Arthy
+111;9;Small Camas;0 Rigney Point;961-447-8176;Birgitta Ballam
+112;9;Oregon Drops Of Gold;38 Pankratz Alley;745-740-3648;Caty Bispham
+113;14;Anomobryum Moss;29 Grasskamp Terrace;598-722-7363;Livvyy Delgardo
+114;39;Asystasia;53756 Welch Pass;566-723-4543;Elle Fendley
+115;36;Marijuana;1 West Way;124-947-8775;Jillayne Laming
+116;40;Nohoanu;6674 Kingsford Road;371-104-9891;Madelin Moisey
+117;13;Variegated-bract Blazingstar;11371 Ludington Street;455-625-3918;Leilah Lief
+118;40;Cayenne Pepper;5170 Eastwood Avenue;638-465-4513;Ardene Wretham
+119;19;Orthodontium Moss;065 Walton Road;948-800-2019;Yuma Furmston
+120;6;Lomatogonium;5902 Roth Circle;434-905-3423;Leola MacDunleavy
+121;2;Kruckeberg's Hollyfern;9679 Sycamore Road;971-686-5278;Waylan Macconaghy
+122;32;Cypress Panicgrass;92287 Longview Junction;106-378-7514;Caitlin Thwaite
+123;28;Buckwheat;45119 Tennessee Trail;745-151-3253;Samson Ogborne
+124;38;Sierra Pea;20410 Hanover Pass;557-127-3988;Darrel Choldcroft
+125;40;Chinese-quince;0671 Ludington Park;229-664-1779;Thoma Romney
+126;19;Tropical Creeping Cudweed;057 Rutledge Lane;202-721-8446;Somerset Pavie
+127;10;Pilo Kea Lau Li'i;24 Rowland Avenue;512-893-6974;Rafaellle Brodie
+128;28;Phylliscum Lichen;2663 Parkside Place;506-929-6640;Terrie Margrie
+129;13;Hillebrand's Flatsedge;64807 Carioca Street;477-881-3989;Sheree Pool
+130;31;Broussaisia;5611 Daystar Lane;817-820-6782;Burl Baggett
+131;14;Largeflower Hawksbeard;0 6th Crossing;827-571-4516;Davin Elmar
+132;36;Virginia Buttonweed;369 Burrows Drive;623-264-0019;Lucy Furmonger
+133;21;Tufted Milkweed;5964 New Castle Alley;482-381-7564;Randall Louche
+134;39;Epilichen Lichen;40053 Red Cloud Road;954-847-4549;Egon Lowell
+135;13;Scorpion Milkvetch;56 Ryan Drive;876-334-5122;Shalom Preece
+136;39;Robust Hoffmann's Buckwheat;8456 Clyde Gallagher Street;637-628-1069;Cynthy Jinkin
+137;13;San Gabriel Ragwort;09181 Annamark Drive;940-952-7801;Kerby Duckitt
+138;21;Piper's Sedge;264 Spohn Hill;859-690-1206;Aloin Pepye
+139;6;Gray Mangrove;98673 Westridge Place;541-910-3395;Bowie Feldman
+140;15;Nuttall's Little Rose;7203 Garrison Plaza;466-518-4548;Zachariah Johananov
+141;22;Fuzzytongue Penstemon;4790 Sunfield Center;951-633-9269;Arabele Gasperi
+142;24;Green Molly;51 Morrow Place;143-239-8826;Carrissa Jefferd
+143;26;Handsome Phacelia;1 La Follette Street;122-583-0035;Dudley Ingarfield
+144;24;Pallas' Wallflower;510 Dunning Junction;319-518-4552;Rudolph Vivers
+145;25;Low False Bindweed;27 Victoria Plaza;781-424-0367;Benny Lemar
+146;34;Death Valley Monkeyflower;8 Daystar Terrace;688-574-2179;Dolf Klesel
+147;30;Arapaho Sedge;01 Iowa Drive;783-366-6476;Hervey Renak
+148;37;Red Manjack;80355 Havey Place;935-552-9723;Sisely Bene
+149;10;Scalloped Moonwort;0 Dayton Center;290-831-9673;Josiah Atkin
+150;36;Rock Hedgenettle;92609 Sutherland Pass;271-727-8698;Ardath Dunkerly
+151;12;Argentine Fingergrass;702 Waywood Center;181-967-0053;Kinny Torrijos
+152;16;Kidneyleaf Rosinweed;0996 Emmet Road;485-927-9401;Charlie Vondruska
+153;25;Las Vegas Tumblemustard;8 Sutherland Point;507-858-2532;Nickola Krugmann
+154;13;Antidote Caccoon;8196 North Terrace;432-731-6559;Cornell Johnsson
+155;40;Rim Lichen;997 Sutherland Avenue;121-626-5694;Bette-ann Martineau
+156;25;Showy Draba;3355 Little Fleur Alley;914-150-8756;Harlin Rusling
+157;13;Mexican Ash;7 Anhalt Point;718-233-6059;Boonie Mehmet
+158;4;Bog Clermontia;78295 Bashford Lane;333-442-1480;Benita Burgisi
+159;35;False Box;676 Amoth Center;969-633-2680;Amelie Venable
+160;35;Lewis' Evening Primrose;15 Harbort Parkway;564-527-9375;Hunt Zanetello
+161;23;Arctic Raspberry;9765 Tennyson Crossing;793-994-9456;Retha Maus
+162;33;Proliferous Pink;55280 Emmet Parkway;627-242-0669;Eduardo Nys
+163;18;Ant Tree;9 Maryland Trail;856-944-0175;Angelita Watton
+164;34;Orthotrichum Moss;820 Lyons Park;445-604-2097;Clarie Jales
+165;8;Needlegrass;92 Crownhardt Lane;560-148-0038;Bunny Dawtry
+166;16;Western Tansymustard;502 Bay Circle;474-701-9789;Bonni Keady
+167;28;Hemichaena;948 Shopko Place;659-148-5876;Amye Sweeny
+168;33;Rinodina Lichen;2039 Cascade Street;707-386-4013;Aguste Hayland
+169;15;St. Eustatius Threeawn;7910 Londonderry Center;606-947-5147;Priscilla Walkowski
+170;6;Grassleaf Barbara's Buttons;06880 2nd Alley;800-570-6304;Ebenezer Gobel
+171;33;Chinese Firethorn;9 Crescent Oaks Center;432-965-6071;Nero Jumont
+172;23;Western Tansymustard;7631 Michigan Plaza;372-412-9241;Amye Pettiford
+173;24;Flotow's Dimple Lichen;8 Roxbury Trail;755-123-1317;Beck Moorerud
+174;9;Downy Phlox;161 Evergreen Circle;718-863-4305;Loretta Giddens
+175;9;Showy Fly Honeysuckle;682 Lakeland Court;977-659-3032;Shirlee Tieraney
+176;34;Adonis Blazingstar;94 Utah Junction;625-303-6873;Dorothea Alu
+177;22;Ulmo;74 Thompson Pass;275-926-4067;Nelli Grundon
+178;6;California Entosthodon Moss;20 Johnson Way;617-932-0566;Vivia De Caville
+179;10;Fremont's Dalea;48 Cordelia Road;351-589-8236;Muriel Brabben
+180;31;Trask's Milkvetch;4 Eagan Circle;954-310-5568;Cordula Licciardello
+181;24;Kunth's Maiden Fern;1 Wayridge Street;363-994-6400;Hurlee Leed
+182;4;Echinocystis;1145 Merry Center;194-686-0077;Tabbitha Beuscher
+183;14;Chihuahuan Fishhook Cactus;50479 Rutledge Junction;774-323-9273;Fredric Burtwistle
+184;17;Northern Freckled Milkvetch;4450 Prairieview Circle;588-197-6761;Konstantine Crass
+185;10;Trepocarpus;2960 Atwood Drive;642-114-6381;Jon Luna
+186;9;Ouricury Palm;146 Browning Trail;189-388-6681;Ricki Edison
+187;12;Gray Honeymyrtle;600 Lakewood Terrace;687-650-0860;Ianthe Werlock
+188;33;Basket Of Gold;1 Jenifer Street;848-822-3532;Aubree Goreisr
+189;14;Tennessee Gladecress;37632 Loftsgordon Alley;680-719-8238;Jere Ghelarducci
+190;18;Fewflowered Spikerush;81212 Monterey Alley;408-458-6918;Eadmund Beldum
+191;7;Klamath River Rockcress;2930 Goodland Park;163-860-3909;Jordanna Tidbold
+192;18;Castela;535 Melvin Way;660-975-0167;Wolfie Walsom
+193;29;Featherbristle Beaksedge;61 Paget Hill;991-404-2269;Maynard Brophy
+194;25;Pussypaws;72 Springview Terrace;731-908-2933;Erinna Ciani
+195;32;Slimlobe Beggarticks;9979 Esch Drive;179-544-1225;Vitia Bison
+196;26;Threadleaf Sundew;6475 Fulton Plaza;600-767-3934;Elga Fleischmann
+197;38;Woodland Coffee;64673 Lindbergh Crossing;925-789-0822;Romona Boundley
+198;5;Thalassia;39884 Sheridan Circle;934-767-4574;Nadiya Hayer
+199;4;Monodora;81 Grayhawk Lane;886-507-4204;Hollis Noquet
+200;29;Bryum Moss;485 Darwin Road;582-999-3664;Ingra Poltun

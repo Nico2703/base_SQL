@@ -1,0 +1,101 @@
+﻿ID_reparacion;ID_reclamo;ID_cliente;Detalle;Costo;Plazos
+1;681;1;Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.;159426.05;30
+2;517;30;Duis bibendum.;659779.39;20
+3;238;28;Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus.;2490641.7;20
+4;940;27;Morbi a ipsum.;1867956.48;25
+5;106;20;Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.;613156.04;5
+6;409;37;Nulla facilisi. Cras non velit nec nisi vulputate nonummy.;1824224.36;10
+7;524;30;Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.;753650.29;20
+8;380;1;"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum.";2171992.66;20
+9;348;29;In sagittis dui vel nisl.;2105539.95;15
+10;471;35;Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.;2442810.28;15
+11;557;13;Vestibulum ac est lacinia nisi venenatis tristique.;1263938.06;30
+12;925;19;Praesent blandit.;2064892.71;30
+13;923;2;"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.";2436207.26;30
+14;512;38;"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis.";2306319.41;25
+15;884;11;Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.;1406407.73;20
+16;998;15;Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue.;541026.99;30
+17;165;10;Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla.;823184.89;5
+18;310;23;Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.;276970.37;10
+19;170;39;Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.;2010936.4;10
+20;105;24;Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti.;2436890.64;15
+21;27;18;Suspendisse potenti. Nullam porttitor lacus at turpis.;1686153.02;15
+22;931;13;Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.;1949278.88;5
+23;406;21;"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.";1395041.59;15
+24;54;28;In congue. Etiam justo.;1677222.55;30
+25;508;9;Phasellus sit amet erat. Nulla tempus.;2005626.51;20
+26;62;5;Proin leo odio, porttitor id, consequat in, consequat ut, nulla.;469550.84;20
+27;408;40;Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.;1714112.37;5
+28;700;35;Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat.;734717.95;25
+29;694;35;Pellentesque ultrices mattis odio.;940302.9;5
+30;183;40;Curabitur convallis.;1125571.28;25
+31;313;24;Etiam justo.;113613.67;5
+32;823;22;Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.;1505312.61;25
+33;131;15;Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.;813444.32;30
+34;853;22;Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia.;704357.73;30
+35;912;11;Donec dapibus.;1831502.2;5
+36;614;21;Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio.;936945.5;15
+37;402;19;Nunc purus.;2374484.67;5
+38;574;32;Aliquam erat volutpat. In congue. Etiam justo.;1900682.31;30
+39;396;10;Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.;1326411.34;25
+40;775;39;Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.;387880.86;25
+41;495;18;Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.;358818.34;20
+42;846;8;Nulla mollis molestie lorem.;1411485.57;10
+43;11;18;Nam dui.;501233.74;15
+44;854;2;Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.;1803250.05;10
+45;828;13;Nullam porttitor lacus at turpis.;1677026.72;30
+46;15;1;Maecenas pulvinar lobortis est. Phasellus sit amet erat.;168820.91;10
+47;146;14;Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.;1230819.46;20
+48;562;37;Proin interdum mauris non ligula pellentesque ultrices.;1469846.45;10
+49;217;21;Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.;2030461.8;10
+50;964;4;Aliquam non mauris.;2114896.7;5
+51;107;37;Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.;1860448.09;20
+52;846;31;Duis aliquam convallis nunc.;376789.37;20
+53;353;35;In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc.;763432.54;10
+54;855;39;Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.;1682990.05;5
+55;997;36;"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.";1232839.92;20
+56;560;13;Maecenas tincidunt lacus at velit.;1912834.03;20
+57;44;35;Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla.;1547135.41;15
+58;210;28;Morbi quis tortor id nulla ultrices aliquet.;1565368.67;15
+59;704;31;Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros.;945449.11;15
+60;177;37;Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum.;2352122.56;10
+61;784;31;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue.;1731918.84;30
+62;275;12;Morbi non quam nec dui luctus rutrum. Nulla tellus.;195872.12;5
+63;540;18;Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.;1646701.73;20
+64;960;35;Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.;1543658.16;20
+65;783;19;Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.;493403.2;10
+66;649;19;Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.;1072993.79;25
+67;576;17;Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.;2298910.94;25
+68;545;32;"Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.";1037167.1;30
+69;830;25;Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus.;2324454.5;25
+70;335;21;Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue.;1446443.76;25
+71;445;5;Nunc rhoncus dui vel sem. Sed sagittis.;1446798.56;15
+72;576;36;Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.;980788.81;10
+73;394;9;Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio.;1961296.51;5
+74;976;8;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque.;162218.87;20
+75;36;13;In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt.;320949.73;15
+76;865;29;Praesent blandit. Nam nulla.;2414020.4;5
+77;347;17;Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.;1107781.23;25
+78;539;33;Nam nulla.;2068860.64;15
+79;818;16;Morbi a ipsum. Integer a nibh.;971318.97;30
+80;49;16;Mauris sit amet eros.;516824.78;30
+81;775;26;Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.;1593347.96;5
+82;97;19;"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.";17085.15;5
+83;603;8;Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.;913655.92;5
+84;36;2;Morbi non quam nec dui luctus rutrum. Nulla tellus.;178920.29;30
+85;870;26;Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.;2434451.77;5
+86;475;18;Etiam vel augue. Vestibulum rutrum rutrum neque.;187910.26;10
+87;68;39;Sed sagittis.;1275832.61;15
+88;574;33;Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam. Nam tristique tortor eu pede.;1744075.71;20
+89;108;5;Suspendisse potenti. Nullam porttitor lacus at turpis.;1795436.99;30
+90;149;21;Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend.;2295893.67;15
+91;300;25;Praesent blandit lacinia erat.;754093.17;5
+92;769;21;Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.;2017192.61;15
+93;52;19;Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.;703796.56;25
+94;506;13;Suspendisse potenti.;353229.39;25
+95;944;34;Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.;1513559.43;25
+96;481;19;Morbi a ipsum. Integer a nibh. In quis justo.;578469.07;25
+97;527;25;Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.;1742995.97;15
+98;379;9;Nulla tellus. In sagittis dui vel nisl. Duis ac nibh.;699331.09;10
+99;497;23;Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.;848477.11;15
+100;650;30;Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus.;159805.12;10

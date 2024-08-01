@@ -1,0 +1,501 @@
+﻿ID_elevador;ID_edificio;Marca;Modelo;Paradas;Carga;Velocidad;Proyecto
+1;20;Automac;Nexway-S;22;950;180;Brickmason
+2;106;LG;Nexiez-MRL;6;700;240;Pipefitter
+3;107;Mitsubishi;Elenessa;31;1200;150;Concrete Finisher
+4;90;Automac;Nexway-S;37;1400;120;Safety Officer
+5;105;Mitsubishi;Nexiez-MR;21;1100;90;Linemen
+6;133;LG;Elenessa;41;850;180;Stucco Mason
+7;145;LG;Elenessa;14;450;120;Painter
+8;161;Mitsubishi;Nexway;7;750;150;Safety Officer
+9;181;Mitsubishi;Nexiez-MRL;2;1000;120;Electrician
+10;93;Mitsubishi;Elenessa;15;450;120;Stucco Mason
+11;22;Automac;Nexway-S;36;850;180;Electrician
+12;187;LG;Nexiez-MRL;16;600;180;Sheet Metal Worker
+13;11;Automac;Nexiez-MRL;20;1000;120;Landscaper
+14;61;LG;Nexiez-MR;40;500;180;Painter
+15;12;LG;Nexiez-MR;30;1000;90;Carpenter
+16;98;Automac;Nexway;53;1000;120;Plasterers
+17;6;Automac;Nexway-S;26;700;60;Carpenter
+18;20;Automac;Elenessa;51;900;90;Safety Officer
+19;27;LG;Nexway-S;12;950;120;Plumber
+20;41;Mitsubishi;Nexway-S;27;450;210;Electrician
+21;41;Mitsubishi;Nexway;7;1100;150;Equipment Operator
+22;199;Automac;Nexiez-MRL;17;800;210;Millwright
+23;129;Mitsubishi;Nexway;41;900;210;Glazier
+24;192;LG;Elenessa;23;1200;180;Electrician
+25;192;LG;Nexiez-MRL;29;1100;180;Refridgeration
+26;139;Automac;Nexway;14;800;120;Ironworker
+27;8;Automac;Elenessa;23;850;90;Concrete Finisher
+28;22;LG;Nexway-S;39;700;90;HVAC
+29;182;LG;Nexway;17;1000;120;Millwright
+30;57;LG;Nexway;19;500;150;Refridgeration
+31;149;Automac;Nexiez-MR;49;550;150;Plasterers
+32;163;LG;Nexiez-MR;7;700;240;Cement Mason
+33;189;LG;Nexway;18;500;240;Ironworker
+34;100;LG;Nexway;27;1000;240;Landscaper
+35;28;Mitsubishi;Nexway;40;850;240;Glazier
+36;129;Mitsubishi;Nexiez-MR;4;1200;180;Safety Officer
+37;12;Mitsubishi;Nexiez-MR;30;800;240;Welder
+38;59;Automac;Elenessa;27;450;60;HVAC
+39;187;Automac;Nexway;28;550;240;Millwright
+40;68;Automac;Nexway;19;950;60;Carpenter
+41;80;LG;Elenessa;7;1400;210;Concrete Finisher
+42;175;LG;Nexiez-MRL;23;650;150;Tile Setter
+43;121;Mitsubishi;Nexiez-MR;14;900;240;Electrician
+44;167;Automac;Nexiez-MR;11;700;180;Plasterers
+45;132;LG;Nexiez-MRL;12;600;90;Welder
+46;147;Mitsubishi;Nexiez-MR;12;700;180;Waterproofer
+47;99;LG;Elenessa;15;1000;240;Equipment Operator
+48;76;Automac;Elenessa;15;600;60;Boilermaker
+49;101;LG;Elenessa;2;900;210;Welder
+50;175;Mitsubishi;Nexway-S;6;800;240;Waterproofer
+51;60;LG;Nexway;3;550;90;Boilermaker
+52;135;Mitsubishi;Nexiez-MR;21;450;120;Ironworker
+53;118;Automac;Elenessa;45;800;210;Terrazzo
+54;184;Automac;Nexway;4;700;180;Plasterers
+55;178;Automac;Elenessa;41;550;150;Laborer
+56;167;Mitsubishi;Nexiez-MR;20;1200;240;Laborer
+57;182;LG;Elenessa;23;500;60;Plumber
+58;58;Mitsubishi;Nexway;45;700;150;Safety Officer
+59;154;Mitsubishi;Nexway;10;1000;240;Laborer
+60;94;Automac;Elenessa;12;1300;90;Terrazzo
+61;142;Automac;Nexiez-MRL;42;1400;90;Safety Officer
+62;3;LG;Nexiez-MRL;17;550;120;Cement Mason
+63;15;LG;Nexiez-MR;2;1400;240;Pipelayer
+64;11;LG;Nexway;40;550;150;Refridgeration
+65;46;Automac;Nexway-S;10;850;90;Tile Setter
+66;93;LG;Nexiez-MR;8;750;240;Cement Mason
+67;37;LG;Nexway;51;950;60;Painter
+68;189;LG;Nexiez-MRL;11;1400;60;Terrazzo
+69;170;Automac;Nexway;20;900;120;Terrazzo
+70;109;LG;Nexway;12;500;240;Plasterers
+71;151;LG;Nexiez-MR;4;800;120;Sheet Metal Worker
+72;3;Mitsubishi;Elenessa;33;900;240;Sheet Metal Worker
+73;92;Mitsubishi;Nexway;49;1300;210;Pipefitter
+74;85;LG;Nexiez-MR;34;1400;120;Glazier
+75;6;Automac;Nexway;10;950;120;Laborer
+76;90;Automac;Nexway;41;1200;90;Ironworker
+77;80;Mitsubishi;Nexway-S;37;1100;210;Carpenter
+78;78;Automac;Nexiez-MR;16;850;210;Concrete Finisher
+79;36;Automac;Nexway-S;4;700;240;HVAC
+80;43;Automac;Elenessa;27;800;240;Welder
+81;58;Automac;Nexiez-MR;35;650;210;Laborer
+82;161;Mitsubishi;Nexway;16;1200;210;Sheet Metal Worker
+83;49;LG;Nexiez-MR;2;700;210;Millwright
+84;73;Automac;Nexiez-MRL;5;950;150;Pipelayer
+85;43;Automac;Nexiez-MRL;18;450;180;Carpenter
+86;72;Automac;Elenessa;33;650;60;Welder
+87;65;Mitsubishi;Nexway;24;1000;120;Tile Setter
+88;95;Automac;Nexway;17;500;60;Boilermaker
+89;8;Automac;Elenessa;53;1100;120;Tile Setter
+90;171;Automac;Nexway-S;48;950;240;Stucco Mason
+91;32;Automac;Nexway-S;55;1200;60;Laborer
+92;67;Automac;Elenessa;11;450;210;Equipment Operator
+93;138;LG;Nexiez-MR;27;1300;240;Pipelayer
+94;132;Mitsubishi;Elenessa;43;850;60;Carpenter
+95;199;Automac;Nexiez-MR;45;750;180;Concrete Finisher
+96;46;Mitsubishi;Nexway;3;600;240;Sheet Metal Worker
+97;70;LG;Nexway-S;13;850;240;Cement Mason
+98;169;LG;Nexiez-MRL;7;1400;90;Painter
+99;173;Mitsubishi;Nexiez-MR;49;700;150;Pipelayer
+100;198;LG;Nexiez-MR;47;1300;210;Electrician
+101;129;Automac;Nexiez-MR;12;550;180;Linemen
+102;46;LG;Elenessa;30;450;90;Welder
+103;58;LG;Nexiez-MRL;13;1300;120;Stucco Mason
+104;190;Automac;Nexway-S;35;1400;120;Welder
+105;48;Automac;Nexway-S;37;650;180;Tile Setter
+106;86;Automac;Nexway;51;600;150;Waterproofer
+107;3;Automac;Nexway;54;750;150;Linemen
+108;134;Mitsubishi;Elenessa;26;750;240;Pipefitter
+109;17;LG;Nexiez-MRL;49;1200;90;Carpenter
+110;129;LG;Nexway-S;5;1100;120;Cement Mason
+111;181;Automac;Nexway;13;600;60;Refridgeration
+112;82;Automac;Nexiez-MR;52;800;90;Cement Mason
+113;24;LG;Nexway;55;650;120;Glazier
+114;1;Automac;Nexway-S;44;550;150;Carpenter
+115;66;LG;Elenessa;53;1100;240;Boilermaker
+116;148;Mitsubishi;Nexway-S;35;1000;180;Electrician
+117;147;Mitsubishi;Nexiez-MR;41;1200;90;Pipefitter
+118;30;Mitsubishi;Nexiez-MR;14;950;90;HVAC
+119;142;Mitsubishi;Nexway;16;550;60;Brickmason
+120;117;Mitsubishi;Nexway;15;700;210;Terrazzo
+121;33;Mitsubishi;Nexiez-MRL;21;850;120;Millwright
+122;149;LG;Nexiez-MR;11;1300;240;HVAC
+123;12;LG;Elenessa;12;1000;60;Stucco Mason
+124;75;Automac;Nexway-S;36;950;150;Glazier
+125;7;LG;Nexway-S;19;900;120;Linemen
+126;102;Mitsubishi;Nexway-S;4;800;60;Pipelayer
+127;7;Mitsubishi;Nexway;15;750;210;Carpenter
+128;177;Automac;Nexway-S;23;900;180;Boilermaker
+129;18;LG;Nexiez-MR;46;550;90;Ironworker
+130;94;LG;Nexway-S;31;450;60;Electrician
+131;44;Automac;Nexiez-MRL;30;1200;150;Sheet Metal Worker
+132;131;Mitsubishi;Nexway-S;22;550;120;Millwright
+133;175;LG;Elenessa;13;550;150;Landscaper
+134;42;Mitsubishi;Nexway;40;950;240;Laborer
+135;63;Mitsubishi;Nexiez-MRL;53;1400;240;Safety Officer
+136;10;Automac;Nexway;42;850;90;Stucco Mason
+137;143;Mitsubishi;Nexway;45;700;150;HVAC
+138;190;Automac;Nexway;7;950;240;Tile Setter
+139;76;LG;Nexiez-MRL;38;1100;120;Landscaper
+140;48;Mitsubishi;Nexiez-MR;11;550;240;Pipefitter
+141;56;LG;Nexiez-MR;29;1000;210;Tile Setter
+142;62;Automac;Nexiez-MR;55;450;120;Plasterers
+143;8;Mitsubishi;Elenessa;34;700;60;Pipefitter
+144;133;LG;Nexiez-MR;4;700;210;Concrete Finisher
+145;42;Mitsubishi;Nexiez-MR;46;500;120;Pipelayer
+146;196;Automac;Nexiez-MRL;38;1400;150;Plasterers
+147;147;LG;Nexiez-MR;7;800;60;Plumber
+148;127;Mitsubishi;Nexiez-MRL;15;550;90;Stucco Mason
+149;42;Automac;Nexiez-MRL;37;900;90;Stucco Mason
+150;130;Automac;Nexiez-MR;7;500;120;Pipefitter
+151;116;Automac;Elenessa;27;500;240;Painter
+152;141;LG;Nexiez-MRL;42;800;240;Plumber
+153;171;LG;Nexiez-MRL;44;1300;150;Plasterers
+154;157;Automac;Nexiez-MR;36;1100;240;Glazier
+155;162;Automac;Nexiez-MRL;21;1300;150;Tile Setter
+156;179;LG;Nexiez-MR;10;950;180;Carpenter
+157;106;Mitsubishi;Nexiez-MR;32;550;210;Ironworker
+158;24;Mitsubishi;Nexiez-MR;19;1100;240;Millwright
+159;16;LG;Nexiez-MR;38;700;180;Laborer
+160;99;Mitsubishi;Nexway-S;5;600;60;Laborer
+161;13;Automac;Nexway-S;24;1200;60;Plasterers
+162;110;Mitsubishi;Nexiez-MR;39;1300;120;Cement Mason
+163;199;Automac;Elenessa;38;650;150;HVAC
+164;102;LG;Nexway;37;1000;180;Plumber
+165;95;Automac;Nexiez-MRL;21;1300;150;Sheet Metal Worker
+166;51;Mitsubishi;Nexiez-MRL;7;700;210;Carpenter
+167;195;LG;Nexway;31;1300;90;Millwright
+168;43;LG;Nexway;7;600;60;Carpenter
+169;82;Automac;Nexiez-MR;23;1100;60;Laborer
+170;87;Automac;Elenessa;3;550;210;Pipefitter
+171;135;LG;Elenessa;30;1000;210;Painter
+172;58;Mitsubishi;Nexiez-MR;46;700;150;Welder
+173;42;Automac;Elenessa;19;950;150;Terrazzo
+174;144;LG;Elenessa;36;800;120;Linemen
+175;106;Mitsubishi;Nexway;51;450;90;Tile Setter
+176;105;LG;Nexway-S;26;1100;150;Waterproofer
+177;114;Mitsubishi;Nexway;40;1400;180;Millwright
+178;45;LG;Nexway-S;54;1200;120;Laborer
+179;87;Automac;Elenessa;31;650;60;Laborer
+180;54;LG;Nexiez-MR;25;900;90;Waterproofer
+181;155;Automac;Elenessa;45;650;240;Boilermaker
+182;54;Automac;Nexway-S;46;800;150;Millwright
+183;88;Mitsubishi;Nexiez-MR;16;700;210;Equipment Operator
+184;87;Mitsubishi;Nexway-S;44;550;90;Electrician
+185;67;LG;Nexway-S;42;1200;60;Carpenter
+186;4;LG;Nexway-S;18;900;60;Welder
+187;66;Mitsubishi;Nexiez-MR;10;750;120;Ironworker
+188;92;LG;Nexway-S;33;1000;60;Plasterers
+189;78;Automac;Nexiez-MRL;47;500;90;Equipment Operator
+190;107;LG;Nexiez-MRL;49;850;240;Millwright
+191;46;LG;Elenessa;45;650;120;Welder
+192;182;LG;Nexiez-MRL;40;1000;210;Waterproofer
+193;33;Mitsubishi;Nexiez-MR;17;500;60;Waterproofer
+194;52;LG;Nexiez-MR;38;800;90;Tile Setter
+195;85;LG;Nexiez-MRL;7;800;240;Terrazzo
+196;175;Automac;Nexiez-MR;35;950;210;Laborer
+197;122;Automac;Elenessa;23;1100;240;Millwright
+198;99;Mitsubishi;Nexiez-MRL;47;1200;60;Stucco Mason
+199;113;Automac;Nexiez-MR;21;950;120;Plasterers
+200;101;Automac;Nexway-S;9;1100;120;Brickmason
+201;51;Automac;Nexiez-MR;5;500;120;Laborer
+202;176;Automac;Nexiez-MR;36;750;210;Plasterers
+203;144;LG;Nexway;53;600;210;Linemen
+204;103;Mitsubishi;Nexiez-MR;30;450;60;Pipefitter
+205;4;Mitsubishi;Nexway;13;850;210;Linemen
+206;109;LG;Nexiez-MRL;34;1300;210;Painter
+207;167;Automac;Nexway;21;950;120;Equipment Operator
+208;197;LG;Nexway;52;1000;90;Millwright
+209;142;Automac;Nexiez-MRL;37;600;90;Sheet Metal Worker
+210;19;Automac;Nexway;35;800;210;Welder
+211;47;Automac;Nexway;18;1100;60;Painter
+212;193;LG;Nexiez-MR;34;850;120;Cement Mason
+213;157;LG;Nexway;49;550;120;Pipefitter
+214;84;Automac;Nexway;49;700;150;Concrete Finisher
+215;26;LG;Nexiez-MRL;9;1000;120;Carpenter
+216;16;LG;Nexiez-MR;14;1300;210;Pipelayer
+217;171;LG;Elenessa;23;1400;120;Sheet Metal Worker
+218;67;Automac;Nexway-S;49;500;90;Millwright
+219;122;LG;Nexiez-MRL;48;900;150;Linemen
+220;79;LG;Nexway;55;1400;60;Equipment Operator
+221;119;Automac;Nexway;53;1200;150;Landscaper
+222;49;Automac;Nexway-S;14;1000;150;Stucco Mason
+223;164;Mitsubishi;Elenessa;2;1200;120;Stucco Mason
+224;34;Automac;Nexway-S;28;950;120;Plasterers
+225;48;LG;Nexway;6;950;210;Equipment Operator
+226;178;Mitsubishi;Nexway;22;950;240;Pipelayer
+227;184;Mitsubishi;Nexiez-MRL;45;550;60;Brickmason
+228;51;Mitsubishi;Nexiez-MRL;34;600;120;Equipment Operator
+229;64;LG;Nexway-S;8;750;240;Linemen
+230;105;Mitsubishi;Elenessa;16;600;90;Electrician
+231;60;Mitsubishi;Nexway;36;1400;240;Pipelayer
+232;59;LG;Nexiez-MR;50;450;180;Sheet Metal Worker
+233;77;LG;Nexway;42;1000;120;Landscaper
+234;92;Automac;Elenessa;54;1000;240;Equipment Operator
+235;25;Mitsubishi;Nexiez-MRL;8;950;90;Painter
+236;109;Automac;Elenessa;46;600;120;Pipelayer
+237;184;Mitsubishi;Nexiez-MRL;34;800;120;Pipefitter
+238;135;Automac;Nexway;14;700;90;Electrician
+239;104;Mitsubishi;Elenessa;39;900;120;Tile Setter
+240;19;Automac;Nexiez-MRL;53;1300;60;HVAC
+241;92;Mitsubishi;Nexiez-MR;35;450;150;Cement Mason
+242;83;Automac;Nexiez-MRL;29;450;210;Landscaper
+243;19;LG;Nexway;4;700;210;Millwright
+244;9;Mitsubishi;Nexway;29;1400;180;Pipefitter
+245;108;Automac;Nexway-S;26;550;180;Pipefitter
+246;185;Mitsubishi;Nexiez-MRL;28;750;150;Pipefitter
+247;8;LG;Elenessa;20;550;120;Painter
+248;133;LG;Nexiez-MRL;2;1400;60;Stucco Mason
+249;6;LG;Nexway-S;33;650;90;HVAC
+250;60;LG;Elenessa;7;850;240;Boilermaker
+251;81;Mitsubishi;Nexiez-MR;48;650;60;Sheet Metal Worker
+252;17;Mitsubishi;Nexway;9;900;240;Pipefitter
+253;27;Mitsubishi;Nexway-S;34;650;210;HVAC
+254;40;Automac;Elenessa;12;800;120;Safety Officer
+255;9;Automac;Nexiez-MRL;26;1200;210;Laborer
+256;198;Mitsubishi;Nexway-S;28;500;180;Ironworker
+257;66;LG;Nexiez-MRL;17;600;60;Safety Officer
+258;187;Mitsubishi;Nexiez-MR;8;850;210;Welder
+259;68;LG;Nexiez-MR;50;600;60;Landscaper
+260;30;Mitsubishi;Nexway-S;30;750;180;Refridgeration
+261;119;LG;Nexway-S;47;650;150;Plasterers
+262;194;Automac;Nexway-S;16;750;210;Electrician
+263;147;LG;Nexway-S;14;1400;150;Painter
+264;45;Automac;Nexway;49;450;240;Glazier
+265;91;Mitsubishi;Nexway-S;5;1300;240;Pipelayer
+266;159;Automac;Elenessa;7;950;90;Safety Officer
+267;172;LG;Nexway-S;39;1000;180;Ironworker
+268;59;Mitsubishi;Elenessa;22;1300;60;Waterproofer
+269;38;Automac;Nexway;40;1000;240;Plumber
+270;108;LG;Nexway;19;850;60;HVAC
+271;128;Automac;Nexiez-MRL;24;750;120;Linemen
+272;21;Mitsubishi;Nexway-S;44;1200;210;Boilermaker
+273;185;LG;Nexway;3;550;240;Plumber
+274;91;LG;Nexiez-MR;52;950;120;Boilermaker
+275;68;LG;Nexiez-MRL;53;450;180;Linemen
+276;40;LG;Nexway;14;850;240;Millwright
+277;47;LG;Nexway;35;1200;210;Painter
+278;140;LG;Nexiez-MRL;11;550;210;Stucco Mason
+279;82;Automac;Nexiez-MR;15;450;240;Painter
+280;28;LG;Nexway;3;1400;60;Cement Mason
+281;92;Automac;Nexiez-MRL;28;600;210;Plumber
+282;120;Mitsubishi;Nexiez-MR;7;450;210;Sheet Metal Worker
+283;77;Automac;Nexiez-MRL;17;600;210;Refridgeration
+284;102;LG;Nexway-S;9;900;180;Plumber
+285;73;Mitsubishi;Nexway;20;950;240;Painter
+286;168;Automac;Nexway-S;25;850;240;Boilermaker
+287;138;LG;Nexway-S;15;900;90;Landscaper
+288;78;Mitsubishi;Nexiez-MRL;20;850;240;Laborer
+289;161;Mitsubishi;Elenessa;26;500;210;Painter
+290;8;Mitsubishi;Nexway;54;500;240;Millwright
+291;146;Automac;Nexway-S;43;700;60;Brickmason
+292;23;LG;Nexway;14;900;210;Sheet Metal Worker
+293;121;Automac;Nexway;28;950;150;Pipefitter
+294;150;Automac;Elenessa;34;1400;240;Plumber
+295;140;Automac;Elenessa;42;500;120;Concrete Finisher
+296;115;Automac;Nexiez-MRL;54;500;180;Ironworker
+297;128;Mitsubishi;Nexway;4;800;90;Cement Mason
+298;190;LG;Nexway-S;28;1200;210;Equipment Operator
+299;100;Automac;Nexiez-MR;39;1000;180;Carpenter
+300;33;LG;Nexiez-MRL;5;850;60;Boilermaker
+301;156;Mitsubishi;Nexway-S;54;500;90;Linemen
+302;200;Automac;Nexway;25;550;60;Boilermaker
+303;127;Automac;Nexway-S;7;1100;210;Plumber
+304;153;LG;Nexiez-MR;7;650;240;Pipefitter
+305;112;Mitsubishi;Elenessa;51;1000;240;Tile Setter
+306;152;Mitsubishi;Elenessa;16;1000;180;Laborer
+307;190;Mitsubishi;Nexway;53;750;90;Millwright
+308;40;LG;Nexiez-MR;2;700;210;Cement Mason
+309;38;LG;Nexway;4;650;240;Plumber
+310;168;Mitsubishi;Nexiez-MR;44;450;240;Welder
+311;161;Automac;Elenessa;19;950;90;Refridgeration
+312;62;LG;Nexiez-MR;15;800;210;Equipment Operator
+313;28;Automac;Nexway-S;55;1300;150;Tile Setter
+314;43;LG;Elenessa;7;750;60;Pipelayer
+315;184;Automac;Nexiez-MRL;2;850;120;Millwright
+316;15;Mitsubishi;Nexiez-MR;24;650;240;Plumber
+317;86;Mitsubishi;Nexway-S;49;1000;150;Carpenter
+318;186;Mitsubishi;Nexiez-MR;23;500;210;Glazier
+319;164;Automac;Nexiez-MRL;23;1200;90;Sheet Metal Worker
+320;87;Automac;Nexway-S;23;800;90;Equipment Operator
+321;93;Automac;Elenessa;26;1400;180;Painter
+322;170;Automac;Elenessa;27;1100;90;Brickmason
+323;162;Mitsubishi;Nexway;4;600;150;Cement Mason
+324;91;LG;Nexiez-MRL;33;650;150;Tile Setter
+325;102;LG;Nexway-S;20;850;60;Tile Setter
+326;82;Automac;Nexiez-MR;15;550;240;Pipefitter
+327;57;Mitsubishi;Nexiez-MR;24;800;120;HVAC
+328;149;Automac;Nexiez-MRL;18;1400;90;Pipefitter
+329;163;Mitsubishi;Nexway-S;16;900;240;Terrazzo
+330;149;Automac;Nexway-S;48;700;210;Plumber
+331;81;LG;Nexiez-MR;16;1300;150;Laborer
+332;28;Automac;Nexiez-MRL;54;500;90;Sheet Metal Worker
+333;20;LG;Nexiez-MR;19;1300;60;Pipefitter
+334;117;LG;Nexway;31;650;240;Plasterers
+335;169;LG;Nexway-S;45;850;60;Terrazzo
+336;142;LG;Nexway;13;1400;150;Millwright
+337;173;LG;Nexway;17;700;240;Safety Officer
+338;174;Automac;Nexway-S;34;700;210;Equipment Operator
+339;58;Mitsubishi;Nexway;17;950;60;Concrete Finisher
+340;13;Automac;Nexway-S;41;450;90;Laborer
+341;72;LG;Nexiez-MRL;29;600;90;Refridgeration
+342;118;Mitsubishi;Elenessa;13;950;180;Millwright
+343;13;LG;Nexway;10;750;120;Sheet Metal Worker
+344;161;LG;Nexway-S;32;800;240;Carpenter
+345;172;LG;Nexway;20;500;90;Stucco Mason
+346;139;Automac;Nexiez-MR;8;750;240;Waterproofer
+347;16;LG;Nexiez-MR;33;600;120;Sheet Metal Worker
+348;165;Mitsubishi;Nexiez-MR;31;950;120;Laborer
+349;194;LG;Nexiez-MR;23;950;90;Electrician
+350;157;Automac;Nexway-S;12;950;90;Linemen
+351;47;LG;Nexway-S;49;1300;210;Linemen
+352;23;LG;Nexway-S;53;1000;150;Sheet Metal Worker
+353;182;Mitsubishi;Elenessa;10;1000;60;Terrazzo
+354;2;Mitsubishi;Nexway-S;12;900;90;Carpenter
+355;173;Automac;Nexiez-MRL;14;750;240;Concrete Finisher
+356;173;LG;Nexway;27;900;150;Ironworker
+357;25;LG;Nexiez-MRL;19;950;180;Refridgeration
+358;66;LG;Nexway-S;39;650;240;Carpenter
+359;157;Automac;Nexway;45;950;120;Ironworker
+360;134;Automac;Nexiez-MRL;14;1300;120;Welder
+361;181;Automac;Nexiez-MRL;31;900;180;Boilermaker
+362;14;Automac;Elenessa;47;450;60;Plasterers
+363;156;Automac;Nexway;39;600;180;Pipefitter
+364;196;Mitsubishi;Nexiez-MRL;17;750;180;Pipelayer
+365;43;Automac;Elenessa;36;1200;90;Millwright
+366;136;LG;Elenessa;47;1400;240;Sheet Metal Worker
+367;172;Mitsubishi;Nexiez-MRL;33;1400;180;Carpenter
+368;54;Mitsubishi;Elenessa;5;1300;120;Waterproofer
+369;117;Automac;Nexiez-MR;41;500;90;Refridgeration
+370;136;Mitsubishi;Nexiez-MR;10;950;240;Cement Mason
+371;77;LG;Nexway;11;1100;210;Cement Mason
+372;82;Automac;Nexiez-MR;28;1000;240;Cement Mason
+373;79;Mitsubishi;Nexiez-MRL;11;1200;150;Laborer
+374;13;Automac;Elenessa;35;850;60;Brickmason
+375;151;Automac;Elenessa;32;850;90;Electrician
+376;67;Mitsubishi;Nexiez-MR;22;1400;240;Concrete Finisher
+377;103;LG;Nexiez-MRL;7;1000;240;Sheet Metal Worker
+378;113;Automac;Nexway;14;900;60;HVAC
+379;169;LG;Nexway;21;700;60;Plumber
+380;166;LG;Nexiez-MRL;53;1100;150;Brickmason
+381;135;Mitsubishi;Nexiez-MR;10;850;240;Pipelayer
+382;116;LG;Elenessa;38;1100;120;Glazier
+383;56;Automac;Nexway-S;33;800;90;Safety Officer
+384;198;Mitsubishi;Nexiez-MR;32;500;120;Painter
+385;198;LG;Nexiez-MR;16;550;120;Painter
+386;144;LG;Nexiez-MRL;41;600;180;Ironworker
+387;192;Mitsubishi;Nexiez-MR;25;800;240;Safety Officer
+388;102;LG;Nexway-S;41;900;120;Cement Mason
+389;88;LG;Nexiez-MR;48;850;210;Refridgeration
+390;153;LG;Nexway;43;650;150;Plumber
+391;105;Mitsubishi;Nexiez-MRL;3;700;90;Electrician
+392;189;Automac;Nexiez-MR;49;750;150;Pipelayer
+393;5;Mitsubishi;Nexiez-MRL;49;800;150;Refridgeration
+394;49;LG;Nexway-S;24;600;60;Concrete Finisher
+395;199;Automac;Nexway-S;32;450;210;Terrazzo
+396;147;LG;Nexway-S;4;700;120;Painter
+397;133;Automac;Nexiez-MR;10;1400;60;Millwright
+398;78;Automac;Nexway;10;1400;240;Pipelayer
+399;35;LG;Nexway;15;700;210;Laborer
+400;151;Automac;Nexway-S;9;1300;240;Safety Officer
+401;120;Mitsubishi;Nexway-S;36;1100;150;Linemen
+402;32;LG;Nexway-S;9;600;180;Painter
+403;173;LG;Nexiez-MR;20;1400;120;Plumber
+404;200;Mitsubishi;Nexway-S;14;600;150;Ironworker
+405;136;Mitsubishi;Nexway-S;44;900;60;Pipefitter
+406;31;Automac;Nexiez-MR;25;650;150;Tile Setter
+407;17;LG;Nexway-S;30;1100;60;Sheet Metal Worker
+408;171;LG;Nexway-S;37;500;60;Sheet Metal Worker
+409;27;LG;Nexiez-MRL;47;850;120;Tile Setter
+410;97;Mitsubishi;Nexway;30;750;240;Landscaper
+411;37;Mitsubishi;Elenessa;4;750;90;Electrician
+412;49;Automac;Nexway-S;32;550;60;Pipefitter
+413;76;Mitsubishi;Nexiez-MR;37;1300;180;Plumber
+414;102;Automac;Nexiez-MR;42;600;90;Electrician
+415;80;LG;Nexiez-MR;53;450;210;Glazier
+416;109;Mitsubishi;Nexway-S;39;700;210;Tile Setter
+417;183;LG;Elenessa;37;750;240;Tile Setter
+418;83;Automac;Elenessa;29;1000;240;Concrete Finisher
+419;82;LG;Nexway;38;850;60;Terrazzo
+420;90;LG;Elenessa;11;1200;90;Pipefitter
+421;66;Automac;Nexiez-MR;19;1100;210;Stucco Mason
+422;88;LG;Nexway;53;700;210;Cement Mason
+423;30;Automac;Nexway-S;6;450;60;Laborer
+424;56;Automac;Elenessa;32;1400;180;Electrician
+425;44;Automac;Nexway-S;16;850;150;Concrete Finisher
+426;112;Mitsubishi;Nexiez-MR;47;1200;180;Terrazzo
+427;34;Mitsubishi;Nexway-S;49;800;210;Millwright
+428;79;Automac;Nexway;20;500;120;Tile Setter
+429;112;LG;Nexway;23;550;60;Plasterers
+430;177;LG;Nexway-S;3;450;90;Concrete Finisher
+431;28;LG;Nexiez-MR;33;600;90;Waterproofer
+432;171;Mitsubishi;Nexway-S;49;800;240;Tile Setter
+433;133;LG;Nexiez-MR;15;950;60;Sheet Metal Worker
+434;190;Mitsubishi;Elenessa;49;700;150;Painter
+435;43;Mitsubishi;Nexway;2;600;90;Carpenter
+436;13;LG;Elenessa;33;950;180;Equipment Operator
+437;181;Mitsubishi;Nexway-S;15;450;240;Carpenter
+438;3;Automac;Nexway-S;12;1400;120;Welder
+439;44;LG;Nexway;26;650;60;Glazier
+440;87;Mitsubishi;Nexiez-MR;50;1100;150;Carpenter
+441;131;Mitsubishi;Nexway-S;22;600;240;HVAC
+442;134;Automac;Nexiez-MRL;19;700;210;Pipefitter
+443;95;Mitsubishi;Nexiez-MR;42;850;90;Tile Setter
+444;55;Mitsubishi;Nexiez-MRL;24;650;210;Ironworker
+445;102;Automac;Nexway;10;800;150;Linemen
+446;97;Automac;Nexiez-MRL;12;1000;120;Stucco Mason
+447;140;Automac;Nexway;23;850;60;Painter
+448;128;Automac;Nexiez-MRL;49;650;210;Concrete Finisher
+449;1;Mitsubishi;Elenessa;11;600;180;Plasterers
+450;21;Mitsubishi;Nexiez-MRL;12;850;180;Equipment Operator
+451;38;Mitsubishi;Nexway;12;700;150;Welder
+452;129;LG;Nexway;37;1100;240;Terrazzo
+453;16;Automac;Nexway;28;1300;60;Tile Setter
+454;35;Mitsubishi;Nexiez-MR;3;450;210;Sheet Metal Worker
+455;124;Mitsubishi;Nexway-S;42;800;240;Laborer
+456;13;Mitsubishi;Nexiez-MRL;39;550;90;Terrazzo
+457;4;Automac;Elenessa;10;900;210;Millwright
+458;185;Automac;Nexway-S;44;1200;120;HVAC
+459;100;Automac;Nexiez-MR;21;1100;90;Painter
+460;69;LG;Nexway;55;850;240;Equipment Operator
+461;118;LG;Nexiez-MRL;15;700;180;Terrazzo
+462;175;Mitsubishi;Nexway-S;5;1100;90;Pipelayer
+463;66;Automac;Nexiez-MRL;8;850;240;Electrician
+464;135;Mitsubishi;Nexiez-MR;32;1300;60;Electrician
+465;28;LG;Nexiez-MR;4;750;60;Safety Officer
+466;192;LG;Nexway;53;700;90;Plasterers
+467;142;Mitsubishi;Nexway-S;17;1200;60;HVAC
+468;13;Mitsubishi;Nexiez-MRL;7;800;90;Electrician
+469;183;LG;Nexiez-MRL;20;1200;120;Laborer
+470;59;Automac;Nexiez-MR;26;900;120;Pipefitter
+471;176;Mitsubishi;Nexiez-MRL;13;750;150;Equipment Operator
+472;172;Automac;Nexiez-MRL;2;1100;150;Carpenter
+473;123;Automac;Nexiez-MRL;11;600;240;Equipment Operator
+474;70;Mitsubishi;Nexiez-MR;17;1000;60;Terrazzo
+475;17;Mitsubishi;Nexiez-MR;45;450;90;Sheet Metal Worker
+476;149;Automac;Nexway-S;8;600;120;Terrazzo
+477;101;Automac;Elenessa;53;1200;120;Stucco Mason
+478;171;LG;Nexiez-MRL;47;950;120;Equipment Operator
+479;4;LG;Nexiez-MRL;26;800;150;Ironworker
+480;122;Automac;Nexiez-MR;46;1200;150;Pipelayer
+481;33;Automac;Nexway-S;5;900;120;Brickmason
+482;176;Automac;Elenessa;16;600;90;Safety Officer
+483;134;Automac;Elenessa;12;1400;240;Stucco Mason
+484;75;Automac;Nexway;7;750;180;Boilermaker
+485;180;Automac;Nexway;49;550;150;Refridgeration
+486;139;LG;Nexway-S;51;700;210;Terrazzo
+487;34;Mitsubishi;Elenessa;6;1000;180;Plumber
+488;50;LG;Elenessa;4;500;180;Refridgeration
+489;22;LG;Elenessa;23;750;90;Landscaper
+490;179;Automac;Elenessa;20;950;60;Sheet Metal Worker
+491;44;Automac;Elenessa;45;950;150;Electrician
+492;25;Automac;Elenessa;28;550;240;Equipment Operator
+493;102;Mitsubishi;Elenessa;7;1400;210;Linemen
+494;29;LG;Elenessa;43;850;150;Linemen
+495;178;Mitsubishi;Nexiez-MR;26;550;150;Landscaper
+496;30;Automac;Nexiez-MR;52;800;120;Laborer
+497;54;Mitsubishi;Nexiez-MR;25;550;120;Pipelayer
+498;179;Automac;Nexiez-MR;43;600;60;Electrician
+499;105;Automac;Nexiez-MRL;4;750;120;Equipment Operator
+500;50;Mitsubishi;Nexiez-MRL;33;1200;120;Glazier
