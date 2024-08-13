@@ -35,6 +35,6 @@ Alumno: Ferrand Nicolás
 
 ## Triggers
 - Se crea una tabla log_tecnicos que almacena los cambios en la tabla tecnicos, ya sea por:
--- INSERCION: tr_insert_tecnicos.
--- UPDATE: tr_update_tecnicos.
--- DELETE: tr_delete_tecnicos.
+    - INSERCION: tr_insert_tecnicos.
+    - UPDATE: tr_update_tecnicos.
+    - DELETE: tr_delete_tecnicos.
