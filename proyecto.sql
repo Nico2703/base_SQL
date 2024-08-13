@@ -63,19 +63,18 @@ CREATE TABLE Reparaciones(
 
 -- Views
 CREATE OR REPLACE VIEW reclamos_por_tec AS
-(SELECT Legajo_tec, COUNT(*) FROM Reclamos GROUP BY Legajo_tec ORDER BY COUNT(*) DESC);
+(SELECT Legajo_tec, COUNT(*) AS Reclamos_atendidos FROM Reclamos GROUP BY Legajo_tec ORDER BY COUNT(*) DESC);
 SELECT * FROM reclamos_por_tec;
 
 CREATE OR REPLACE VIEW edificios_ordenados AS (SELECT ID_edificio, ID_cliente, Nombre_edif, Direccion FROM Edificios ORDER BY Nombre_edif ASC);
 SELECT * FROM edificios_ordenados;
 
-CREATE OR REPLACE VIEW elevadores_Mitsu AS (SELECT ID_elevador, ID_edificio, Modelo, Paradas, Carga, Velocidad FROM Elevadores 
-WHERE Marca = "Mitsubishi" ORDER BY ID_elevador ASC);
+CREATE OR REPLACE VIEW elevadores_Mitsu AS (SELECT e.ID_elevador, d.Nombre_edif, e.Modelo, e.Paradas, e.Carga, e.Velocidad FROM Elevadores e
+JOIN Edificios d ON e.ID_edificio = d.ID_edificio WHERE e.Marca = "Mitsubishi" ORDER BY e.ID_elevador ASC);
 SELECT * FROM elevadores_Mitsu;
 
 CREATE OR REPLACE VIEW reparaciones_urgencia AS (SELECT ID_reparacion, ID_cliente, ID_reclamo, Detalle, Plazos FROM Reparaciones ORDER BY Plazos ASC);
 SELECT * FROM reparaciones_urgencia;
-DROP FUNCTION IF EXISTS total_deuda_cliente;
 
 -- Functions
 DELIMITER //
