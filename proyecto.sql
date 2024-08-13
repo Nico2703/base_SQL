@@ -76,6 +76,7 @@ SELECT * FROM elevadores_Mitsu;
 CREATE OR REPLACE VIEW reparaciones_urgencia AS (SELECT ID_reparacion, ID_cliente, ID_reclamo, Detalle, Plazos FROM Reparaciones ORDER BY Plazos ASC);
 SELECT * FROM reparaciones_urgencia;
 DROP FUNCTION IF EXISTS total_deuda_cliente;
+
 -- Functions
 DELIMITER //
 CREATE FUNCTION total_deuda_cliente (Busca INT) RETURNS VARCHAR(20) DETERMINISTIC
