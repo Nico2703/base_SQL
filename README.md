@@ -19,6 +19,11 @@ Alumno: Ferrand Nicolás
 ## Diagrama de tablas 
 <img style="width: 75%;" src="tablas.png"/>
 
+## Inserciones
+- Se crearon tablas aleatorias utilizando 'mockaroo.com'.
+- Se cargaron estos datos utilizando en cada tabla -> Export/Import -> Import records from an external file.
+- En la carpeta 'Datos' se encuentran las tablas con extensión 'CSV'.
+
 ## Vistas
 - reclamos_por_tec: ordena el listado de reclamos según el técnico encargado.
 - edificios_ordenados: ordena el listado de edificios alfabéticamente.
