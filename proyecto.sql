@@ -76,6 +76,10 @@ SELECT * FROM elevadores_Mitsu;
 CREATE OR REPLACE VIEW reparaciones_urgencia AS (SELECT ID_reparacion, ID_cliente, ID_reclamo, Detalle, Plazos FROM Reparaciones ORDER BY Plazos ASC);
 SELECT * FROM reparaciones_urgencia;
 
+CREATE OR REPLACE VIEW encargados_clientes AS 
+(SELECT e.ID_Cliente, e.ID_edificio, c.Denominacion, e.Encargado FROM Edificios e JOIN Clientes c ON c.ID_cliente = e.ID_cliente ORDER BY e.ID_cliente ASC);
+SELECT * FROM encargados_clientes;
+
 -- Functions
 DELIMITER //
 CREATE FUNCTION total_deuda_cliente (Busca INT) RETURNS VARCHAR(20) DETERMINISTIC

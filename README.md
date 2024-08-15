@@ -29,6 +29,7 @@ Alumno: Ferrand Nicolás
 - edificios_ordenados: ordena el listado de edificios alfabéticamente.
 - elevadores_Mitsu: muestra del listado de elevadores solo aquellos de marca Mitsubishi y ordenados por ID.
 - reparaciones_urgencia: muestra el listado de reparaciones ordenado por el plazo de finalización desde la más urgente.
+- encargados_clientes: Vincula los encargados de cada edificio con el cliente administrador del mismo.
 
 ## Funciones
 - total_deuda_cliente: recibe el ID_cliente y devuelve el costo total adeudado por reparaciones.
