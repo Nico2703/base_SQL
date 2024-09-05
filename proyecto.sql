@@ -102,7 +102,7 @@ RETURN total;
 END;
 //
 DELIMITER ;
-SELECT total_recalmos_edificio(14);
+SELECT total_recalmos_edificio(16);
 
 -- Stored Procedures
 DELIMITER //
@@ -180,6 +180,20 @@ DELETE FROM tecnicos WHERE Legajo_tec = 7;
 
 SELECT * FROM tecnicos;
 SELECT * FROM log_tecnicos;
+
+-- TOP10 - Reclamos por edificio 
+SELECT e.Nombre_edif, COUNT(r.ID_edificio) AS cantidad_reclamos FROM Reclamos r 
+JOIN edificios e ON r.ID_edificio = e.ID_edificio
+GROUP BY e.ID_edificio ORDER BY cantidad_reclamos DESC LIMIT 10;
+
+-- Reclamos totales por técnico 
+SELECT t.Nombre_tec, COUNT(r.Legajo_tec) AS cantidad_reclamos FROM Reclamos r
+JOIN tecnicos t ON r.Legajo_tec = t.Legajo_tec
+GROUP BY r.Legajo_tec ORDER BY cantidad_reclamos DESC;
+
+-- Total adeudado por cliente
+SELECT r.ID_Cliente, c.Denominacion, SUM(r.Costo) AS deuda_total FROM Reparaciones r 
+JOIN clientes c ON r.ID_cliente = c.ID_cliente GROUP BY r.ID_cliente ORDER BY deuda_total DESC;
 
 
 
