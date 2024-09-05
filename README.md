@@ -25,7 +25,7 @@ Alumno: Ferrand Nicolás
 - En la carpeta 'Datos' se encuentran las tablas con extensión 'CSV'.
 
 ## Vistas
-- reclamos_por_tec: ordena el listado de reclamos según el técnico encargado.
+- reclamos_por_tec: muestra la cantidad de reclamos atendidos por técnico encargado.
 - edificios_ordenados: ordena el listado de edificios alfabéticamente.
 - elevadores_Mitsu: muestra del listado de elevadores solo aquellos de marca Mitsubishi y ordenados por ID.
 - reparaciones_urgencia: muestra el listado de reparaciones ordenado por el plazo de finalización desde la más urgente.

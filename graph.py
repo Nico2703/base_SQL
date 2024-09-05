@@ -21,7 +21,7 @@ plt.bar(df['Nombre_edif'], df['cantidad_reclamos'], color='skyblue', edgecolor='
 plt.xlabel('Nombre_edif')
 plt.ylabel('cantidad_reclamos')
 plt.title('Gráfico de reclamos totales')
-plt.xticks(rotation=90)
+plt.xticks(rotation=70)
 plt.tight_layout()
 
 plt.savefig('graph_top10.png')

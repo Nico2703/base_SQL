@@ -23,7 +23,7 @@ plt.pie(
     sizes,                             
     labels=labels,                    
     autopct='%1.1f%%',                 
-    colors=['#ff9999', '#66b3ff', '#99ff99', '#ffcc99'], 
+    colors=['#ff9999', '#66b3ff', '#99ff99', '#ffcc99', '#d6a5c1'], 
     explode=[0] * len(df),            
     shadow=True,                      
     startangle=140,                    
